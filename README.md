@@ -4,8 +4,6 @@ This repository contains the **dataset**, **code**, and **evaluation resources**
 
 The dataset can be found at: ``src/data/thinksysbio``
 
-This contains 5 samples from the ThinkSysBio dataset. The full dataset will be available on publication. 
-
 
 ## Overview
 
