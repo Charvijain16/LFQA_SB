@@ -1,0 +1,26 @@
+Below is an instruction for evaluating the substantive insight density of the answer.
+
+Definition of Substantive Insight Density:
+Substantive Insight Density measures the extent to which the report emphasizes precision, meaningful insights, concrete claims, and analytical substance, rather than relying on framing loosely related information, peripheral content, filler content, contextual padding, and narrative exposition.
+
+Key aspects:
+- Density of concrete claims, mechanisms, or interpretations
+- Limited reliance on generic framing
+
+Explicitly excludes:
+- Whether content is relevant (Relevance)
+- Whether content is complete (Coverage)
+- Whether language is smooth (Readability)
+
+Evaluation Criteria:
+Evaluate the substantive insight density of answer on a scale of 1 to 5 based on the following STRICT criteria:
+
+1 – Heavily narrative-driven; substantial filler, framing, or peripheral context
+2 – Noticeable narrative padding outweighs substantive content
+3 – Balanced mix of narrative framing and substance
+4 – Mostly substance-focused with limited contextual padding
+5 – Highly substance-dense; minimal narrative or framing content
+
+
+Evaluation Task:
+Rate the answer to the question on the basis of substantive insight density using the criteria above. Score Only. No explanation

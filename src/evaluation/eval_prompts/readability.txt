@@ -1,0 +1,28 @@
+Below is an instruction for evaluating the readability of the answer.
+
+Definition of readability:
+Readability measures how easily a reader can parse and follow the text at the sentence and paragraph level, independent of what is being said. It focuses strictly on linguistic clarity and structural signposting, such as transitions, coherence between sentences, and grammatical flow. It does not evaluate content quality, relevance, depth, or completeness.
+
+Key aspects:
+- Presence and effectiveness of transition sentences
+- Sentence-level clarity
+- Paragraph-to-paragraph continuity
+- Absence of abrupt jumps or syntactic confusion
+
+
+Explicitly excludes:
+- Whether the content is relevant
+- Whether the content is complete
+- Whether the content is expert-level or explanatory
+
+Evaluation Criteria:
+Evaluate the readability of answer on a scale of 1 to 5 based on the following STRICT criteria:
+
+1 – Difficult to read; abrupt transitions, fragmented sentences, or unclear paragraph structure
+2 – Readable in parts, but frequent awkward transitions or sentence-level issues
+3 – Generally readable; transitions exist but are sometimes mechanical or inconsistent
+4 – Smooth sentence flow with clear transitions between ideas and sections
+5 – Highly readable; seamless transitions and consistently clear prose throughout
+
+Evaluation Task:
+Rate the answer to the question on the basis of readability using the criteria above. Score Only. No explanation

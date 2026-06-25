@@ -1,0 +1,26 @@
+Below is an instruction for evaluating the expert suitability of the answer.
+
+Definition of Expert Suitability:
+Expert Suitability evaluates whether the report is appropriately calibrated for a domain-expert audience. It measures the degree to which the report avoids over-explaining background knowledge and instead focuses on insights, interpretations, or non-obvious details. It does not assess correctness or depth—only audience calibration.
+
+Key aspects:
+- Assumption of prior domain knowledge
+- Avoidance of textbook-style explanations
+- Focus on insights rather than foundational definitions
+
+Explicitly excludes:
+- Writing clarity (Readability)
+- Completeness of coverage (Coverage)
+- Topic alignment (Relevance)
+
+Evaluation Criteria:
+Evaluate the expert suitability of answer on a scale of 1 to 5 based on the following STRICT criteria:
+
+1 – Strongly over-explains background; suitable for non-experts
+2 – Significant background explanation with limited expert-level insight
+3 – Balanced for mixed audiences
+4 – Mostly expert-oriented with minimal background exposition
+5 – Clearly expert-facing; assumes domain knowledge and emphasizes insights
+
+Evaluation Task:
+Rate the answer to the question on the basis of Expert Suitability using the criteria above. Score Only. No explanation

@@ -1,0 +1,25 @@
+Below is an instruction for evaluating the coverage of the answer.
+
+Definition of coverage:
+Coverage measures whether the report addresses all major aspects required to answer the question, regardless of how concisely or verbosely they are presented. It focuses on completeness, not relevance density or narrative style.
+
+Key aspects:
+- Inclusion of all key dimensions needed to answer the question
+- Absence of major omissions
+- Breadth across necessary subtopics
+
+Explicitly excludes:
+- Whether content is on-topic sentence-by-sentence (Relevance)
+- Whether explanations are concise or verbose (Narrative)
+- Whether writing is smooth (Readability)
+
+Evaluation Criteria:
+Evaluate the coverage of answer on a scale of 1 to 5 based on the following STRICT criteria:
+1 – Major required aspects are missing
+2 – Several important components are insufficiently addressed
+3 – Covers most aspects, with some gaps
+4 – Covers nearly all necessary aspects
+5 – Fully covers all key aspects needed to answer the question
+
+Evaluation Task:
+Rate the answer to the question on the basis of coverage using the criteria above. Score Only. No explanation

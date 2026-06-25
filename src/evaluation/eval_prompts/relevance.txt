@@ -1,0 +1,25 @@
+Below is an instruction for evaluating the relevance of the answer.
+
+Definition of relevance:
+Relevance evaluates how directly the report content addresses the specific question being asked. It measures alignment to the question scope and penalizes deviation into tangential or loosely related topics. It does not assess how well the content is written or whether the report is complete—only whether the included material stays on-topic.
+
+Key aspects:
+- Alignment of content with the stated question
+- Degree of deviation into unrelated or weakly related areas
+- Proportion of tangential or off-scope information
+
+Explicitly excludes:
+- Writing quality or flow
+- Depth of explanation
+- Whether all aspects are covered (that is Coverage)
+
+Evaluation Criteria:
+Evaluate the relevance of answer on a scale of 1 to 5 based on the following STRICT criteria:
+1 – Large portions of the report are tangential or off-topic
+2 – Core topic present, but frequent deviations into loosely related content
+3 – Mostly relevant with occasional tangential sections
+4 – Strong alignment with the question; minimal deviation
+5 – Entire report is tightly focused on answering the specific question
+
+Evaluation Task:
+Rate the answer to the question on the basis of relevance using the criteria above. Score Only. No explanation
